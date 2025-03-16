@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestCheeseAnalyzer" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-16T19:51:28" hostname="DESKTOP-N7F4A4I" time="0.238">
+  <properties/>
+  <testcase name="testFileProcessing()" classname="com.csc.TestCheeseAnalyzer" time="0.21"/>
+  <testcase name="testOutputContent()" classname="com.csc.TestCheeseAnalyzer" time="0.008"/>
+  <testcase name="testMissingIdsFileContent()" classname="com.csc.TestCheeseAnalyzer" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
